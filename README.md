@@ -22,8 +22,8 @@ Eigen and CUDA to achieve much better speeds than the original IDL code
 Documentation
 =============
 
-Documentation of the optimizations taken to achieve these speeds is inside
-doc/finalReport.pdf.
+Extensive documentation of the optimizations I performed to achieve these speeds 
+exists inside doc/finalReport.pdf.
 
 Usage:
 ======
