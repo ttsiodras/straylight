@@ -71,4 +71,4 @@ this:
 Contact point
 =============
 Thanassis Tsiodras, Dr.-Ing.
-ttsiodras@gmail.com / ttsiodras@semantix.gr / a_tsiodras@neuropublic.gr
+ttsiodras@gmail.com / ttsiodras@semantix.gr / a\_tsiodras@neuropublic.gr
