@@ -1,0 +1,12 @@
+Makefile
+config.log
+config.status
+output.from.ESA.all.channels.stage13
+output/
+src/.deps/
+src/Makefile
+src/config.h
+src/stamp-h1
+src/strayLight
+src/*.o
+test-results.*
