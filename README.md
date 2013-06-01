@@ -22,8 +22,8 @@ Eigen and CUDA to achieve much better speeds than the original IDL code
 Documentation
 =============
 
-Extensive documentation of the optimizations I performed to achieve these speedups
-exists [inside this deliverable](doc/finalReport.pdf).
+I wrote extensive documentation of the optimizations I performed to achieve these speedups
+[inside the deliverable in the doc/ folder](https://github.com/ttsiodras/straylight/raw/master/doc/finalReport.pdf).
 
 Usage:
 ======
