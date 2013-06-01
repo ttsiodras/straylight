@@ -23,7 +23,7 @@ Documentation
 =============
 
 Extensive documentation of the optimizations I performed to achieve these speedups
-exists [doc/finalReport.pdf](inside this deliverable).
+exists [inside this deliverable](doc/finalReport.pdf).
 
 Usage:
 ======
