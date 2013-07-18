@@ -1,6 +1,8 @@
 Executive summary
 =================
 
+Note: complete blog post about this [is here](http://ttsiodras.github.io/straylight.html).
+
 This is the software I developed for Task 2.2 of the "TASTE Maintenance and
 Evolutions" project of the European Space Agency. It is a port of the IDL
 implementation of the StrayLight algorithm to C++, and it utilizes OpenMP,
