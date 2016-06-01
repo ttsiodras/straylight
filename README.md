@@ -1,7 +1,7 @@
 Executive summary
 =================
 
-Note: complete blog post about this [is here](http://ttsiodras.github.io/straylight.html).
+Note: complete blog post about this [is here](https://www.thanassis.space/straylight.html).
 
 This is the software I developed for Task 2.2 of the "TASTE Maintenance and
 Evolutions" project of the European Space Agency. It is a port of the IDL
@@ -73,4 +73,4 @@ this:
 Contact point
 =============
 Thanassis Tsiodras, Dr.-Ing.
-ttsiodras@gmail.com / ttsiodras@semantix.gr / a\_tsiodras@neuropublic.gr
+ttsiodras@gmail.com
