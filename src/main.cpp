@@ -188,7 +188,6 @@ int main(int argc, char *argv[])
     fp AL_nb_detectors, AC_nb_detectors;
     if (i_band <= 3) {
         AL_nb_detectors = 2.*tan(alpha_AL_max*M_PI/180.)*focal/VNIR_detector_size;
-        AC_nb_detectors = 2.*tan(alpha_AC_max*M_PI/180.)*focal/VNIR_detector_size;
         AC_nb_detectors = IMGWIDTH;
     }
 
